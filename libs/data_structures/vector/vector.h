@@ -34,4 +34,13 @@ void pushBack(Vector *v, int x);
 
 void popBack(Vector *v);
 
+int *atVector(Vector *v, size_t index);
+
+int *back(Vector *v);
+
+int *front(Vector *v);
+
+#endif//UNTITLED_VECTOR_H
+
+
 
