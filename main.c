@@ -1,5 +1,4 @@
 #include <assert.h>
-#include <malloc.h>
 
 #include "libs/data_structures/vector/vector.h"
 
