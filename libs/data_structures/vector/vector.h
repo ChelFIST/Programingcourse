@@ -24,3 +24,14 @@ void shrinkToFit(Vector *v);
 
 void deleteVector(Vector *v);
 
+bool isEmpty(Vector *v);
+
+bool isFull(Vector *v);
+
+int getVectorValue(Vector *v, size_t i);
+
+void pushBack(Vector *v, int x);
+
+void popBack(Vector *v);
+
+
