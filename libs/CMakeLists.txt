@@ -1,0 +1,3 @@
+add_subdirectory(algoritms)
+add_subdirectory(structures)
+add_subdirectory(string)
